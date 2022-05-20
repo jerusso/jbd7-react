@@ -1,0 +1,106 @@
+body {
+    font-family: 'Cabin', sans-serif;
+    text-align: center;
+}
+
+/* MAIN STYLES */
+main {
+    margin-top:20rem;
+}
+
+@media screen and (max-width: 414px) {
+    main {
+        margin-top: 4rem;
+    }
+}
+
+.logo {
+    width:125px;
+    height:auto;
+    margin-bottom: 1.25rem;
+}
+
+@media screen and (max-width: 414px) {
+    .logo {
+        width:100px;
+    }
+}
+
+.icon-wrapper {
+    margin:0 12px;
+}
+
+.weather-wrapper {
+    margin-top: 5rem;
+}
+@media screen and (max-width: 414px) {
+    .weather {
+        margin-top: 2rem;
+    }
+}
+
+.weather-title {
+    margin-bottom: 2rem;
+}
+
+.weather-icon-wrapper {
+    width:80px;
+    margin-bottom:1.25rem;
+}
+/* END MAIN STYLES */
+
+/* FOOTER STYLES */
+footer {
+    position: absolute;
+    bottom: 1rem;
+    width:100%;
+}
+
+.copyright-text {
+    font-size:.8rem;
+}
+/* END FOOTER */
+
+/* UTILITY STYLES */
+.gray-80 {
+    color: #3A3A3A;
+}
+
+.gray-60 {
+    color: #A6A6A6;
+}
+
+.gray-40 {
+    color:#CBCBCB;
+}
+
+.gray-20 {
+    color:#F8F8F8;
+}
+
+.green-20 {
+    color: #C6CE8F;
+}
+
+.primary {
+    color:#B6C166;
+}
+
+.react {
+    color:#61DAFB;
+}
+
+.body-sm {
+    font-size:0.8rem;
+    line-height: 1rem;
+}
+
+.body-reg {
+    font-size: 1.0rem;
+    line-height: 1.25rem;
+}
+
+.no-underline {
+    text-decoration: none;
+}
+/* END UTILITY STYLES */

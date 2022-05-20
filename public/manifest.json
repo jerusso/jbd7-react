@@ -1,0 +1,9 @@
+{
+  "short_name": "Jackbilt Designs",
+  "name": "Jackbilt Designs",
+  "description":"Pixel-infused Designs. Hand-coded in Portland, Oregon.",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3A3A3A",
+  "background_color": "#ffffff"
+}
